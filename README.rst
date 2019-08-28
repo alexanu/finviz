@@ -2,21 +2,6 @@ finviz-api
 ########
 *Unofficial Python API for FinViz*
 
-.. image:: https://badge.fury.io/py/finviz.svg
-    :target: https://badge.fury.io/py/finviz
-    
-.. image:: https://img.shields.io/badge/python-3.6-blue.svg
-    :target: https://www.python.org/downloads/release/python-360/
-    
-.. image:: https://img.shields.io/github/stars/mariostoev/finviz.svg
-    :target: https://github.com/mariostoev/finviz/stargazers
-    :alt: Stargazers
-    
-.. image:: https://pepy.tech/badge/finviz
-    :target: https://pepy.tech/project/finviz
-    
-.. image:: http://hits.dwyl.io/mariostoev/finviz.svg
-    :target: http://hits.dwyl.io/mariostoev/finviz
 
 Installation
 -----
@@ -37,6 +22,19 @@ FinViz_ aims to make market information accessible and provides a lot of data in
 **Important Information**
 
 Any quotes data displayed on finviz.com is delayed by 15 minutes for NASDAQ, and 20 minutes for NYSE and AMEX. This API should **NOT** be used for live trading, it's main purpuse is financial analysis, research and data scraping.
+
+
+Schema of the repo
+=====
+
+https://bubbl.us/NDc3NDc4NC80MjI0ODk0L2ViZGYyYWVmNGJmNDQ5ZTVlZmQ5MzQ0OWYzMDdiNjRm@X?utm_source=shared-link&utm_medium=link&s=10080915
+
+
+Additional repos
+=====
+https://github.com/alexanu/Python_Trading_Snippets/tree/master/data/scrapping%20projects/finviz
+
+
 
 Using Screener
 =====
